@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI3-UserControl-study (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI3-UserControl-study (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
